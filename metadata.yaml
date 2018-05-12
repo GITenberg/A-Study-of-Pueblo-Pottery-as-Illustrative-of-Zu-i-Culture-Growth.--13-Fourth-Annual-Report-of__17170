@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7190
     wikipedia: http://en.wikipedia.org/wiki/Frank_Hamilton_Cushing
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17170#A-Study-of-Pueblo-Pottery-as-Illustrative-of-Zu-i-Culture-Growth.--13-Fourth-Annual-Report-of_
 gutenberg_bookshelf:
 - Native America
 - Archaeology
