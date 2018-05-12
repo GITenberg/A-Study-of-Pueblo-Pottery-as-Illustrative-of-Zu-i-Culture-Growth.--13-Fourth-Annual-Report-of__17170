@@ -1,0 +1,33 @@
+_repo: A-Study-of-Pueblo-Pottery-as-Illustrative-of-Zu-i-Culture-Growth.--13-Fourth-Annual-Report-of__17170
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cushing, Frank Hamilton
+    birthdate: 1857
+    deathdate: 1900
+    gutenberg_agent_id: '7190'
+    url: http://www.gutenberg.org/2009/agents/7190
+    wikipedia: http://en.wikipedia.org/wiki/Frank_Hamilton_Cushing
+description: ''
+gutenberg_bookshelf:
+- Native America
+- Archaeology
+gutenberg_issued: '2005-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17170'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Zuni Indians'
+- !lcc 'E011'
+- !lcsh 'Indian pottery -- North America'
+title: "A Study of Pueblo Pottery as Illustrative of Zuñi Culture Growth.\r\nFourth\
+  \ Annual Report of the Bureau of Ethnology to the Secretary of the Smithsonian Institution,\
+  \ 1882-83, Government Printing Office, Washington, 1886, pages 467-522"
+url: http://www.gutenberg.org/ebooks/17170
